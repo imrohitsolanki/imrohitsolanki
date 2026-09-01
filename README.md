@@ -42,5 +42,4 @@ AWS Solutions Architect – Associate · AWS AI Practitioner · AWS Cloud Practi
 
 ### Contact
 
-[rohitsolanki1099@gmail.com](mailto:rohitsolanki1099@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/rohit-solanki-k) · Ahmedabad, India
+[LinkedIn](https://www.linkedin.com/in/rohit-solanki-k)
