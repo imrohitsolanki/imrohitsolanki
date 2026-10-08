@@ -1,7 +1,8 @@
 ![Rohit Solanki: DevOps Engineer moving into MLOps and AgentOps](assets/profile-banner.svg)
 
 **Platform and DevOps engineer.** I build Kubernetes and Terraform delivery systems — and the
-tooling that verifies them before they ship.
+tooling that verifies them before they ship. Now moving into **MLOps and AgentOps**: bringing the
+same delivery, guardrails and observability to ML pipelines and AI agents.
 
 Five years running production infrastructure on AWS: EKS and kubeadm clusters, Terragrunt-managed
 environments, Argo CD delivery, and the observability and security work that keeps them honest.
