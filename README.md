@@ -45,7 +45,7 @@ verification skills that catch unsafe Terraform and Helm changes before review.
 | **Data** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Aurora |
 | **Languages** | Python · Bash |
 | **AI-assisted ops** | Claude Code · MCP servers · AI guardrails and audit trails · spec-driven IaC |
-| **MLOps (exploring)** | MLflow · Hugging Face · PyTorch · scikit-learn · Jupyter · Airflow · DVC · Ray · LangChain · Ollama |
+| **MLOps** | MLflow · Hugging Face · PyTorch · scikit-learn · Jupyter · Airflow · DVC · Ray · LangChain · Ollama |
 
 ### Certifications
 
