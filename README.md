@@ -1,4 +1,6 @@
-![Rohit Solanki: DevOps Engineer moving into MLOps and AgentOps](assets/profile-banner.svg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,githubactions,jenkins,prometheus,grafana,nginx,postgres,mongodb,redis,elasticsearch,python,bash,linux&perline=9" alt="AWS, GCP, Azure, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, Prometheus, Grafana, NGINX, PostgreSQL, MongoDB, Redis, Elasticsearch, Python, Bash, Linux" />
+</p>
 
 **Platform and DevOps engineer.** I build Kubernetes and Terraform delivery systems — and the
 tooling that verifies them before they ship. Now moving into **MLOps and AgentOps**: bringing the
