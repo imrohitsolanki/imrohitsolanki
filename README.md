@@ -1,3 +1,5 @@
+![Rohit Solanki: DevOps Engineer moving into MLOps and AgentOps](assets/profile-banner.svg)
+
 **Platform and DevOps engineer.** I build Kubernetes and Terraform delivery systems — and the
 tooling that verifies them before they ship.
 
