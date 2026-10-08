@@ -47,6 +47,12 @@ verification skills that catch unsafe Terraform and Helm changes before review.
 | **AI-assisted ops** | Claude Code · MCP servers · AI guardrails and audit trails · spec-driven IaC |
 | **MLOps** | MLflow · Hugging Face · PyTorch · scikit-learn · Jupyter · Airflow · DVC · Ray · LangChain · Ollama |
 
+### GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imrohitsolanki&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Rohit Solanki's GitHub stats" />
+</p>
+
 ### Certifications
 
 AWS Solutions Architect – Associate · AWS AI Practitioner · AWS Cloud Practitioner · RHCSA
